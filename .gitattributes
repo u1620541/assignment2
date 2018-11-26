@@ -1,3 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 data/data_note.pdf filter=lfs diff=lfs merge=lfs -text
+Report.docx filter=lfs diff=lfs merge=lfs -text
+cs342_assign2.pdf filter=lfs diff=lfs merge=lfs -text
